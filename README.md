@@ -8,3 +8,4 @@ In this repository, i am about to provide solutions for the Advent of Code[^aoc]
     You can solve the puzzle and provide an answer using the language of your choice.
 
 [aoc]: https://adventofcode.com
+[kotlin]: https://kotlinlang.org/
