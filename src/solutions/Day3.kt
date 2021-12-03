@@ -14,7 +14,8 @@ fun main() = day(3) {
     }
 
     part2 {
-        var oxygens = inputLines; var scrubbers = inputLines
+        var oxygens = inputLines
+        var scrubbers = inputLines
 
         for (column in 0 until inputLines[0].length) {
             val mostCommon = mostCommon(oxygens)[column]
